@@ -1,0 +1,1 @@
+En este archivo encontramos la solución del movimiento para dos pendulos conetados mediante un resorte, para esta solucion utilizamos el lagrangiano, una vez halladas las ecuaciones del movimiento pocedimos a simular dichos movimientos, para esto utilizamos el metodo de odein y por ultimo graficamos las energias del movimiento con respecto al tiempo.  
